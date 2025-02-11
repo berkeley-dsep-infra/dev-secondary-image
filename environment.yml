@@ -48,5 +48,5 @@ dependencies:
 #- jupyter-containds=0.2.2
 # Pilot Real Time Collaboration in Dev Hub
 - jupyter-collaboration==3.1.0
-- jupyter-collaboration-ui==1.1.0
-- jupyter_server_ydoc==1.1.0
+#- jupyter-collaboration-ui==1.1.0
+#- jupyter_server_ydoc==1.1.0
