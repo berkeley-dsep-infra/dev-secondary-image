@@ -50,3 +50,8 @@ dependencies:
 - jupyter-collaboration==3.1.0
 #- jupyter-collaboration-ui==1.1.0
 #- jupyter_server_ydoc==1.1.0
+# pip installed packages, conda is prefered
+- pip==24.2
+- pip:
+  - jupyterlab-unianalytics-telemetry==4.0.16
+  - jupyterlab-unianalytics-dashboard==4.0.19
